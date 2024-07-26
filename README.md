@@ -20,5 +20,5 @@ A simple blog application built with Django for beginners. This project demonstr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/BlogProject.git
+git clone https://github.com/affanfani70/BlogProject.git
 cd BlogProject
